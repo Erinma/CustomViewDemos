@@ -8,6 +8,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+    //自定义view 集成view，viewgroup
 private TitleView titleView;
 private String[] data={"小摩托","小汽车定的","叨叨的的二","定的","叨叨的的二二二多多多","小摩托","小汽车定的","叨叨的的二","定的","dddd"};
     @Override
